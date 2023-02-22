@@ -1,4 +1,4 @@
-module github.com/actgardner/gogen-avro/v10
+module github.com/dani-maarouf/gogen-avro/v10
 
 go 1.17
 

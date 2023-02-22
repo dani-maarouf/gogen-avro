@@ -3,7 +3,7 @@ package schema
 import (
 	"fmt"
 
-	"github.com/actgardner/gogen-avro/v10/generator"
+	"github.com/dani-maarouf/gogen-avro/v10/generator"
 )
 
 type ArrayField struct {

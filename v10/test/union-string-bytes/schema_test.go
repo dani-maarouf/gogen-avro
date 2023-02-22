@@ -4,8 +4,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/actgardner/gogen-avro/v10/container"
-	"github.com/actgardner/gogen-avro/v10/test"
+	"github.com/dani-maarouf/gogen-avro/v10/container"
+	"github.com/dani-maarouf/gogen-avro/v10/test"
 )
 
 func TestRoundTrip(t *testing.T) {
